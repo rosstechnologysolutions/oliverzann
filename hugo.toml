@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://main--reliable-moxie-b091ab.netlify.app/'
 languageCode = 'en-us'
 title = 'R.A. Ross'
 theme = 'daisy'
